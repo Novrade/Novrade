@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Radek
-- 🌱 I’m currently studying software engineering. In my free time I love to learn new technologies. Currently I am learning SQL and improving my skills in algorithms and data structures.
+- 🌱 I’m currently studying software engineering. In my free time I am working on some small projects and I love to learn new technologies. Currently I am learning SQL and improving my skills in algorithms and data structures.
 
 <!---
 Novrade/Novrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
