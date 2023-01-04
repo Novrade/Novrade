@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Radek, a junior software developer with two years of personal experience.
-- 🌱 I’m studying software engineering at Open University. In my free time I work on some small projects and learn new technologies. Currently I am learning SQL and improving my skills in algorithms and data structures.
+- 🌱 I’m studying software engineering at Open University. In my free time I work on some small projects and learn new technologies.
 
 <!---
 Novrade/Novrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
